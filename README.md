@@ -1,6 +1,5 @@
 ### Hi there 👋
-<img src="https://discord.c99.nl/widget/theme-2/911863269327785984.png"/>
-911863269327785984
+<img src="https://discord.c99.nl/widget/theme-1/911863269327785984.png"/>
 <br/>
 <a href="https://github.com/SuperErnD">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=HONAK0" />
